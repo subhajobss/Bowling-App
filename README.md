@@ -25,5 +25,5 @@ TestSuite Scenarios :
         it('when in 2 tries not able to knock down all pins')
         
 
-SetUp : Run score.html
+SetUp : Run   src/score.html
 
