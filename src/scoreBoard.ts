@@ -1,11 +1,3 @@
-// function bowler(person){
-//     return 'Hello, '+ person;
-// }
-// let user = 'Subha'
-
-// document.body.innerHTML = bowler(user);
-
-
     let strike : boolean = false;
     let spare: boolean  = false;
     let noOfRolls = 0;
