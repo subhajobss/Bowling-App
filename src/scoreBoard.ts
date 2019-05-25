@@ -1,3 +1,4 @@
+    export {}
     let strike : boolean = false;
     let spare: boolean  = false;
     let noOfRolls = 0;

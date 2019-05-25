@@ -1,8 +1,5 @@
-// function bowler(person){
-//     return 'Hello, '+ person;
-// }
-// let user = 'Subha'
-// document.body.innerHTML = bowler(user);
+"use strict";
+exports.__esModule = true;
 var strike = false;
 var spare = false;
 var noOfRolls = 0;
